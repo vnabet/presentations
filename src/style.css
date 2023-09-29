@@ -1,0 +1,11 @@
+.presentations {
+  display: none;
+}
+
+.presentations :is(*, ::after, ::before) {
+  font-family: 'Poppins', sans-serif;
+}
+
+.presentations.visible {
+  display: block;
+}

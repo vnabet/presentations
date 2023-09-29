@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Essai 1",
+    "files": ["slides/communauteWebPV/test.md"]
+  },
+  {
+    "title": "Essai 2",
+    "files": ["test.md", "test.md", "test.md"]
+  }
+]
