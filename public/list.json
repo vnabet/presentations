@@ -1,10 +1,6 @@
 [
   {
-    "title": "Essai 1",
-    "files": ["slides/communauteWebPV/test.md"]
-  },
-  {
-    "title": "Essai 2",
-    "files": ["test.md", "test.md", "test.md"]
+    "title": "[Communauté Web PV] Angular: Standalone API's",
+    "files": ["slides/communauteWebPV/angular-2023.md", "slides/communauteWebPV/angular-standalone.md"]
   }
 ]
