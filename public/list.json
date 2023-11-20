@@ -2,5 +2,9 @@
   {
     "title": "[Communauté Web PV] Angular: Standalone API's",
     "files": ["slides/communauteWebPV/angular-2023.md", "slides/communauteWebPV/angular-standalone.md"]
+  },
+  {
+    "title": "[Communauté Web PV] CORS",
+    "files": ["slides/communauteWebPV/CORS.md"]
   }
 ]
